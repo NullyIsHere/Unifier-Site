@@ -214,7 +214,7 @@
   <h1>
     <span class="line line-1">
       <span class="wrapper">
-        <span class="content">I tell</span>
+        <span class="content">Here you can tell</span>
       </span>
       <span class="wrapper stories-wrapper">
         <span id="stories" class="highlight content">
@@ -225,16 +225,16 @@
         </span> 
       </span>
       <span class="wrapper">
-        <span class="content">on the web</span>
+        <span class="content">with everyone.</span>
       </span>
     </span>
     <span class="line line-2">
       <span class="wrapper">
-        <span class="content">And I'd love to tell</span>
+        <span class="content">And make some</span>
       </span>
       <span class="wrapper yours-wrapper">
         <span id="yours" class="highlight content" on:mouseenter={rollEmoji} on:mouseleave={clearInterval(interval)}>
-          <span class="text">yours</span>
+          <span class="text">friends</span>
           <img src={currentEmoji} class="emoji" alt="emoji" aria-hidden="true"/>
         </span>
       </span>
@@ -250,7 +250,7 @@
   <div id="about-scroll-section">
     <section id="about">
       <div class="inner">
-        <h2>So... who am I?</h2>
+        <h2>So... what is Unifier?</h2>
         <h3 class="section-1">
           <span class="line line-1">
             I'm a 
@@ -348,7 +348,7 @@
   </section>
   <section id="contact">
     <div id="contact-wrapper">
-      <h2>I'd love to work with you</h2>
+      <h2>Why not start chatting?</h2>
       <div id="contact-content">
         <div id="contact-info">
           <p>Do you have a question, idea, or a project you need help with? <br/> Reach out - I'd love to hear from you.</p>
@@ -367,8 +367,8 @@
               <a href="mailto:sam@samalander.dev" target="_blank">sam@samalander.dev</a>
             </div>
             <div class="contact-info-line">
-              <h3>Location</h3>
-              <a href="https://goo.gl/maps/UXvrrJ4wXHNE7E1PA" target="_blank" rel="noreferrer">Silicon Valley - California</a>
+              <h3>Credits To</h3>
+              <a href="https://goo.gl/maps/UXvrrJ4wXHNE7E1PA" target="_blank" rel="noreferrer">Samaland3r</a>
             </div>
           </div>
         </div>
